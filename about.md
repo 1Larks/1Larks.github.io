@@ -32,7 +32,7 @@ I usually play CTFs on:
   - [reversing.kr](https://reversing.kr/)
     
 Find me on: 
-- [Github](https://github.com/pwnstar1729)
+- [Github](https://github.com/pwnstar11)
 - [Twitter](https://twitter.com/pwn0graphy1)
 - [Hackthebox](https://app.hackthebox.com/users/1512237)
 - [Cryptohack](https://cryptohack.org/user/catmeowcat/)
