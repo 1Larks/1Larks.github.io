@@ -8,7 +8,7 @@ paginate = 5
   contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "orange"
+  themeColor = "blue"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
@@ -65,7 +65,7 @@ paginate = 5
     languageName = "English"
     title = "pwnstar.rs"
     subtitle = "I like ECC"
-    owner = "pwnstar.rs"
+    owner = "star@Arch"
     keywords = "Math, Crypto and Rust"
     copyright = "© 2023 Content made by pwnstar"
     menuMore = "Show more"
