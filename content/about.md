@@ -6,9 +6,9 @@ description: About Me
 math: true
 ---
 
-<p align="center">
-![my image](static/images/OZGhirwx_400x400.jpg)
-</p>
+
+![my image](https://c.wallhere.com/photos/f3/2b/anime_anime_girls_cat_girl_Amashiro_Natsuki_nacho_neko_animal_ears_grey_hair_aqua_eyes-1996479.jpg!d)
+
 
 ## About Me
 
