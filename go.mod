@@ -1,4 +1,4 @@
-module github.com/lior5654/website
+module github.com/pwnstar11/pwnstar11.github.io
 
 go 1.20
 
