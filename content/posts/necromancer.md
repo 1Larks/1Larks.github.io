@@ -11,3 +11,5 @@ math: false
 > I have both machines set up on NAT, the ova runs and my attacker machine (Heavily configured Ubuntu, I'd say to better follow maybe do it on Kali or Parrot?)
 
 > This, of course, is a general outline without detailed explanations& a lot (but a lot) of memes!
+
+$${\displaystyle \mathrm {Div} ^{0}(E)\to \mathrm {Pic} ^{0}(E)\simeq E}$$
