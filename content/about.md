@@ -13,7 +13,7 @@ math: true
 
 Hey! I am pwnstar, usually going under that name or as ```frobenius_endomorphism()```, a [Crypto](https://cryptoisnotcryptocurrency.com/) enthusiast with a bit too much free time and license to IDA pro.
 
-A bit about me!
+A bit more about me!
 I'm interested in:
 - Mathematics
     - Category Theory
