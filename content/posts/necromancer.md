@@ -1,7 +1,7 @@
 ---
 author: pwnstar
 title: Crypto CTF
-date: 2023-06-01T01:45:19+03:00
+date: 2023-07-14T01:45:19+03:00
 description: A full writeup to a light vulnhub machine
 math: true
 ---
