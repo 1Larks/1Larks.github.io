@@ -5,7 +5,7 @@ author = "pwnstar"
 authorTwitter = "pwn0graphy"
 tags = ["CTF", "security", "Cryptography", "Golang", "Python", "challenge"]
 description = "An easy ‘crypto’ challenge where we can trick a casino into adding to our balance by betting a negative amount of money"
-++
++++
 
 # Overview
 
