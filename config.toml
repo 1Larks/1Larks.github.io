@@ -1,9 +1,9 @@
-baseURL = "https://pwnstar11.github.io/website/"
+baseURL = "https://1larks.github.io/website/"
 languageCode = "en-us"
 paginate = 5
 
 [params]
-  # dir name of your main content (default is `content/posts`).
+  # dir name of your main content (default is content/posts).
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
 
@@ -22,17 +22,17 @@ paginate = 5
   # center theme with default width
   centerTheme = true
 
-  # if your resource directory contains an image called `cover.(jpg|png|webp)`,
+  # if your resource directory contains an image called cover.(jpg|png|webp),
   # then the file will be used as a cover automatically.
-  # With this option you don't have to put the `cover` param in a front-matter.
+  # With this option you don't have to put the cover param in a front-matter.
   autoCover = true
 
   # set post to show the last updated
-  # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
+  # If you use git, you can set enableGitInfo to true and then post will automatically get the last updated
   showLastUpdated = false
 
-  # set a custom favicon (default is a `themeColor` square)
-  favicon = "/images/astolfo.png"
+  # set a custom favicon (default is a themeColor square)
+  # favicon = "favicon.ico"
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix = "Updated"
@@ -63,11 +63,11 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "pwnstar.rs"
-    subtitle = "I like ECC"
-    owner = "pwnstar.rs"
-    keywords = "Math, Crypto and Rust"
-    copyright = "© 2023 Content made by pwnstar"
+    title = "larks"
+    subtitle = "larks"
+    owner = "larks"
+    keywords = "larks"
+    copyright = "© 2023 Content made by larks"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
@@ -79,7 +79,7 @@ paginate = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "pwnstar"
+      logoText = "larks"
       logoHomeLink = "/"
     [languages.en.menu]
       [[languages.en.menu.main]]
