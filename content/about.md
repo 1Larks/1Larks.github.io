@@ -1,27 +1,35 @@
 ---
-author: Lior Yehezkely
+author: pwnstar
 title: whoami
-date: 2023-04-12T17:57:40+03:00
+date: 2023-06-01T09:21:11+03:00
 description: About Me
 math: false
 ---
 
-![My Profile Picture](/images/profile_picture.jpg)
+![My Profile Picture](/images/OZGhirwx_400x400.jpg)
 
 ## About Me
 
-Hi 👋
+Hey! I am pwnstar, usually going under that name or as ```frobenius_endomorphism()```, a Crypto enthusiast with a bit too much free time and license to IDA pro.
 
-I am a researcher, based in northern Israel.
+A bit about me!
+  - I love:
+      - Cryptography
+      - Galois theory
+      - Elliptic curves
+      - Rust
+      - History
+      - Reverse engineering
 
-I do competitive programming, vulnerability research & R&D.
-
-I am an [IOI Bronze Medalist](http://stats.ioinformatics.org/people/7485), currently studying @ [The Open University of Israel](https://en.wikipedia.org/wiki/Open_University_of_Israel) as a Mathematics major. Used to do [Codeforces](https://codeforces.com/) for a while, peaking at 2065 ELO rating.
-
-I play [CTF (Capture The Flag)](https://www.youtube.com/watch?v=8ev9ZX9J45A) competitions with team [Project Sekai](https://sekai.team/), rated 4th globally as of April 2023.
-
-## About This Site
-
-My goal is to post writeups of interesting problems I solve or/and concepts I encounter, related to security, mathematics and/or algorithms.
-
-I will try to cover a variety of topics, such as Cryptography, Data Structures & Algortihms, Reverse Engineering and more!
+I usually play CTFs on:
+  - [Hackthebox](https://app.hackthebox.com)
+  - [pwnable.kr](https://pwnable.kr/)
+  - [Websec.fr](https://websec.fr/)
+  - [reversing.kr](https://reversing.kr/)
+    
+Find me on: 
+- [Github](https://github.com/pwnstar11)
+- [Twitter](https://twitter.com/pwn0graphy1)
+- [Hackthebox](https://app.hackthebox.com/users/1512237)
+- [Cryptohack](https://cryptohack.org/user/catmeowcat/)
+- [Telegram](https://t.me/sudorm1)
