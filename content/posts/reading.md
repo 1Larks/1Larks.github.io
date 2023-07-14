@@ -10,5 +10,6 @@ description = "Checking how math looks with this theme"
 
 > This is basically a collection to show what am I currently reading And to keep me motivated enough to update it 
 
-> This writeup is a WIP (Work In Progress) 🔨
+> This article is a WIP 🔨 and hopefully stays so
 
+> ```For suggestions just mailto::twistededwards@protonmail.com```
