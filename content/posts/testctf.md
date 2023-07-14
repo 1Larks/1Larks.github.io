@@ -1,22 +1,11 @@
-+++ 
-tags = ["ctf","crypto","integer-handling"] 
-categories = ["CTF Writeups", "Cryptography"] 
-date = "2023-1-6" 
-description = "An easy 'crypto' challenge where we can trick a casino into adding to our balance by betting a negative amount of money." 
-title = "TetCTF 2023: casino"
 +++
-
-
-
-+++
-title = "An easy 'crypto' challenge where we can trick a casino into adding to our balance by betting a negative amount of money"
-date = "2023-01-05"
+title = "Currently reading"
+date = "2023-06-01"
 author = "pwnstar"
 authorTwitter = "pwn0graphy"
-tags = ["ctf", "crypto", "integer-handling"] 
-description = "Checking how math looks with this theme"
-+++
-
+tags = ["CTF", "security", "Cryptography", "Golang", "Python", "challenge"]
+description = "An easy ‘crypto’ challenge where we can trick a casino into adding to our balance by betting a negative amount of money"
+++
 
 # Overview
 
