@@ -28,7 +28,6 @@ I'm interested in:
     - Crypto (Mostly)
     - pwn 
     - Reverse engineering
-- Genetics and systems biology
 - Computer Science
     - Complexity Theory
     - Algorithms, mostly number theoretic
