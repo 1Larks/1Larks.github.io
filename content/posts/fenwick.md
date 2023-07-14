@@ -3,7 +3,7 @@ author: pwnstar
 title: Fenwick Trees& Rust?
 date: 2023-06-11T11:11:11+03:00
 description: A tutorial on Fenwick Trees and applications to number theory
-math: false
+math: true
 ---
 
 $${\textstyle f(x)={\begin{cases}x^{2}&\quad {\text{if }}x{\text{ is even}}\\x+5&\quad {\text{if }}x{\text{ is odd}}\end{cases}}}$$
