@@ -6,7 +6,9 @@ description: About Me
 math: true
 ---
 
-<p align="center"><img src="/images/OZGhirwx_400x400.jpg" width="100"/></p>
+<p align="center">
+![my image](static/images/OZGhirwx_400x400.jpg)
+</p>
 
 ## About Me
 
