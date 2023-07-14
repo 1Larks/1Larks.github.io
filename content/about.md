@@ -3,7 +3,7 @@ author: pwnstar
 title: star@Arch ~ -> whoami
 date: 2023-06-01T09:21:11+03:00
 description: About Me
-math: false
+math: true
 ---
 
 ![My Profile Picture](/images/OZGhirwx_400x400.jpg)
@@ -34,7 +34,7 @@ I'm interested in:
     - Algorithms, mostly number theoretic
     - Systems Programming
 - Vim
-  - It is the IDE I use for $LaTeX$ work
+  - It is the IDE I use for $\LaTeX$ work
   - I use it for competitive programming too
 - Linux
   - I use Arch as a main OS and I also run VMs of:
