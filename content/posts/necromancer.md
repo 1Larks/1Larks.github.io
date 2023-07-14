@@ -21,4 +21,8 @@ To find the ip of the victim's machine. You can also get it with an [nmap](https
 
 Anyhow, once you get the IP and scan it, it seems as if no ports are open, i.e we can't really progress, can we?
 
-Well, I just hopped over to wireshark and sniffed traffic on ```eth0```. Cool, this was much better as we saw communication, so we can just set up a netcat and get a chunk of base64 encoded text
+Well, I just hopped over to wireshark and sniffed traffic on ```eth0```. Cool, this was much better as we saw communication, so we can just set up a netcat and get a chunk of base64 encoded text, you can just decode it from the terminal with
+
+{{< code language="bash" title="script" id="3" expand="Show" collapse="Hide" isCollapsed="true" >}}
+echo "Text" | base64 -d
+{{< /code >}}
