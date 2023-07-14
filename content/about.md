@@ -7,7 +7,7 @@ math: true
 ---
 
 
-![my image](../static/images/cat.png))
+![my image](../static/images/cat.png)
 
 
 ## About Me
