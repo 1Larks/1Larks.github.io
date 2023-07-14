@@ -1,4 +1,4 @@
-module github.com/1larks/1larks.github.io
+module github.com/1larks/1Larks.github.io
 
 go 1.20
 
