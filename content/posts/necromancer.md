@@ -1,9 +1,9 @@
 ---
 author: pwnstar
-title: Crypto CTF
-date: 2023-06-01T09:21:11+03:00
-description: A very light Crypto challenge
-math: true
+title: The Necromancer 1
+date: 2023-07-14T09:21:11+03:00
+description: A very light, Beginner friendly Vulnhub machine
+math: false
 ---
 
 > Hey, all! This is a writeup to a vulnhub machine I solved recently, after it was suggested to me by thatsitamar.
