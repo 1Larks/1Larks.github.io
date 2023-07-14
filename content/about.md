@@ -1,6 +1,6 @@
 ---
 author: pwnstar
-title: whoami
+title: star@Arch ~ -> whoami
 date: 2023-06-01T09:21:11+03:00
 description: About Me
 math: false
