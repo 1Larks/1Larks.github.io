@@ -1,10 +1,10 @@
 +++
-title = "Traz! - MidnightSun CTF 2023 Qualification Round"
-date = "2023-04-12"
-author = "Lior Yehezkely"
-authorTwitter = "lior5654"
-tags = ["ctf", "reversing", "blackbox", "midnightsun", "writeup"]
-description = "Writeup for an interesting blackbox research challenge from midnightsun 2023"
+title = "Randomly checking How math parses with this theme"
+date = "2019-02-12"
+author = "pwnstar"
+authorTwitter = "pwns0graphy"
+tags = ["ctf", "dirichlet", "ECC", "LaTeX", "math"]
+description = "Checking how $\LaTeX$ looks with this theme"
 +++
 
 > This writeup is a WIP (Work In Progress) 🔨

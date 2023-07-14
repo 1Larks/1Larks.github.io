@@ -5,8 +5,9 @@ date: 2023-06-01T09:21:11+03:00
 description: About Me
 math: false
 ---
-
+<center>
 ![My Profile Picture](/images/OZGhirwx_400x400.jpg)
+<center>
 
 ## About Me
 
