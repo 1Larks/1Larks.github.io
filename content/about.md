@@ -19,7 +19,7 @@ A bit about me!
       - Elliptic curves
       - Rust
       - History
-      - Reverse engineering
+      - Low level research
 
 I usually play CTFs on:
   - [Hackthebox](https://app.hackthebox.com)
