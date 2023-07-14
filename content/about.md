@@ -6,9 +6,8 @@ description: About Me
 math: true
 ---
 
-<p align="center">
-  ![my image](/images/cat.png)
-</p>
+![my image](/images/cat.png)
+
 
 ## About Me
 
