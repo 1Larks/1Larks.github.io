@@ -11,16 +11,16 @@ math: false
 
 ## About Me
 
-Hey! I am pwnstar, usually going under that name or as ```frobenius_endomorphism()```, a Crypto enthusiast with a bit too much free time and license to IDA pro.
+Hey! I am pwnstar, usually going under that name or as ```frobenius_endomorphism()```, a [Crypto](https://cryptoisnotcryptocurrency.com/) enthusiast with a bit too much free time and license to IDA pro.
 
 A bit about me!
   - I love:
-      - Cryptography
-      - Galois theory
-      - Elliptic curves
-      - Rust
-      - History
-      - Low level research
+      - [Cryptography](https://doc.sagemath.org/html/en/reference/cryptography/index.html)
+      - [Galois theory](https://link.springer.com/book/10.1007/978-1-4612-0617-0)
+      - [Elliptic curves](https://link.springer.com/book/10.1007/978-0-387-09494-6)
+      - [Rust](https://www.rust-lang.org/)
+      - [History](https://en.wikipedia.org/wiki/History_of_Israel#British_Mandate_of_Palestine_(1920%E2%80%931948))
+      - [Low level research](https://github.com/gurugio/lowlevelprogramming-university)
 
 I usually play CTFs on:
   - [Hackthebox](https://app.hackthebox.com)

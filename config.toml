@@ -63,9 +63,9 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "pwnstar"
+    title = "pwnstar.rs"
     subtitle = "I like ECC"
-    owner = "pwnstar"
+    owner = "pwnstar.rs"
     keywords = "Math, Crypto and Rust"
     copyright = "© 2023 Content made by pwnstar"
     menuMore = "Show more"
