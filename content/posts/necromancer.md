@@ -12,4 +12,13 @@ math: false
 
 > This, of course, is a general outline without detailed explanations& a lot (but a lot) of memes!
 
-$${\displaystyle \mathrm {Div} ^{0}(E)\to \mathrm {Pic} ^{0}(E)\simeq E}$$
+Starting is rather trivial. We can run 
+
+```
+sudo arp-scan -l
+```
+To find the ip of the victim's machine. You can also get it with an [nmap](https://nmap.org/) scan, if you set them both on [NAT](https://www.cisco.com/c/en/us/products/routers/network-address-translation.html).
+
+Anyhow, once you get the IP and scan it, it seems as if no ports are open, i.e we can't really progress, can we?
+
+Well, I just hopped over to wireshark and sniffed traffic on ```eth0```. Cool, this was much better as we saw communication, so we can just set up a netcat and get a chunk of base64 encoded text
