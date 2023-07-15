@@ -6,7 +6,7 @@ description: About Me
 math: true
 ---
 
-![my image](/images/cat.png)
+![my image](/images/mc.png)
 
 
 **About Me!**
