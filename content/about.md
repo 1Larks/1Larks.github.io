@@ -1,7 +1,7 @@
 ---
 author: Larks
-title: star@Arch ~ -> whoami
-date: 2023-06-01T09:21:11+03:00
+title: Larks@Ubuntu $ whoami
+date: 2023-07-15T09:16:03+03:00
 description: About Me
 math: true
 ---
